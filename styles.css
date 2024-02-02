@@ -1,1 +1,23 @@
+#first-part
+{
+    width: 40%;
+}
+
+.detail-card
+{
+    display: flex !important;
+}
+
+.second-part
+{
+    width: 40%;
+}
+
+.main-card
+{
+    width: 80vw;
+    padding: 40px;
+    box-shadow: 0px 0px 20px 0.1px rgb(202, 202, 202);
+    margin: auto;
+}
 
